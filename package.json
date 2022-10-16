@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "scripts": {
+    "ui": "yarn workspace ui",
     "prepare:husky": "husky install"
   },
   "devDependencies": {

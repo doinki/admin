@@ -1,0 +1,13 @@
+{
+  "name": "tsconfig",
+  "private": true,
+  "exports": {
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "typescript": "^4.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
